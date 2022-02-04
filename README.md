@@ -1,4 +1,5 @@
-# TheFormationOfBinaryBlackHoles <br> Final project of Laboratory of Computational Physics, mod. A 
+# TheFormationOfBinaryBlackHoles 
+This is the repository of the final project of Laboratory of Computational Physics, mod. A.
 
 In the folder "LCP_projects_Y4-Group9", the file "project_description_astro_mapelli.pdf" describes the project and provides guidance to its development. The jupyter notebook "Project.ipynb" is the project itself. 
 
